@@ -1,0 +1,2 @@
+# Design-and-Development-of-an-Experimental-uG-Lab-with-PEBB-and-PHIL-Environment.
+ChatGPT said:  This thesis develops a modular experimental microgrid laboratory to validate power converters and control in real and emulated environments. Modular PEBBs integrated with Typhoon HIL enable HIL/PHIL testing, assessing hardware, protection, and gfm/gfl modes, supporting research, training, and replicable microgrid development.
